@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Umesh Chowdary
-- 👀 I’m interested in cyber security
-- 🌱 I’m currently learning basic frontend languages...
+- 👀 I’m interested in software engineering
 - 📫 How to reach me ?
 -umeshpagadavarapu2606@gmail.com
